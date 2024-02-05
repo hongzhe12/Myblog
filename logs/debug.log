@@ -1,0 +1,16 @@
+"GET /article/article-list/ HTTP/1.1" 200 19581
+"GET /article/article-detail/31/ HTTP/1.1" 200 18759
+"GET /article/article-list/ HTTP/1.1" 200 19581
+Watching for file changes with StatReloader
+"GET /article/article-list/ HTTP/1.1" 200 19581
+"GET /static/other/popper.min.js.map HTTP/1.1" 404 1693
+"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+"GET /static/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 200 176087
+"GET /article/article-list/ HTTP/1.1" 200 19581
+"GET /static/other/popper.min.js.map HTTP/1.1" 404 1693
+Watching for file changes with StatReloader
+"GET /article/article-list/ HTTP/1.1" 200 19581
+"GET /article/article-list/ HTTP/1.1" 200 19581
+"GET /article/article-list/ HTTP/1.1" 200 19581
+"GET /article/article-detail/29/ HTTP/1.1" 200 31830
+"GET /article/article-list/ HTTP/1.1" 200 19581
